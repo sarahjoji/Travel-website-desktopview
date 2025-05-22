@@ -4,6 +4,14 @@
 This is a fully responsive travel-themed website built with HTML and CSS. It features a modern layout that adjusts seamlessly between mobile and desktop screens. The site showcases beautiful destinations, embedded multimedia, and persuasive travel offers — making it a visually engaging experience for travel enthusiasts.
 
 
+
+## Demo link
+[Demo link](https://travel-website-desktopview.onrender.com)
+
+
+## Presentation link
+[Presentation link](https://www.loom.com/share/0707038291c44fdf800f773e2de703d4?sid=606fce3a-9d1c-4246-ab0c-0cd7f7c015c6)
+
 ## Features
  Responsive Design: Optimized for both mobile and desktop views using CSS media queries.
 
