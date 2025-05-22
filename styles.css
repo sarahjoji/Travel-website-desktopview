@@ -72,7 +72,7 @@ nav {
     margin-bottom: 30px;
     
 }
-.ballons {
+.ballon {
 
     
     margin-top: -20px ;
@@ -293,4 +293,145 @@ video{
 }
 .shaping {
     margin-left: -30px;
+}
+@media(min-width: 1024px) {
+    .trv{        
+    color: #25A59E;
+    font-size: 250%;
+}
+
+.menu {
+    width: 50%;
+    height: 50%;
+    margin-top: 40px;
+    margin-left: -40px;
+}
+
+
+.travelaround {
+
+    margin-left: 30px;
+    font-size: 500%;
+    text-align: center;
+}
+.blurry {
+    position: absolute;
+    width: 70%;
+    margin-left: 160px;
+    margin-top: -200px;
+}
+.Ellipse {
+    position: relative;
+    margin-top: 150px;
+    margin-bottom: 80px;
+    margin-left: 170px;
+    width: 70%;
+}
+.couple {
+margin-top: 195px;
+position: absolute;
+width: 60%;
+margin-left: -920px;
+}
+.cards{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 3fr));
+    gap: 10px;
+}
+.Hot-air-ballon{
+        transform: rotate(180deg);
+        width: 100%;
+        margin-left: 1px;
+}
+.find-your-destination {
+    width: 100%;
+    margin-left: -0px;
+    text-align: center;
+    font-size: 200%;
+}
+.lake, .ballons, .blue-lake, .Falls, .blue-Sea, .Smoky{
+    border: 4px solid whitesmoke;
+}
+
+.Oeschinec-lake{
+    margin-left: 0px;
+    width: 100%;
+}
+.RhineFall{
+    margin-left:0px;
+    width: 100%;
+}
+.Sunter-Lake{
+    margin-left: 0px;
+    width: 100%;
+}
+
+.Negeri-di-atas-Awan{
+    margin-left: 1px;
+        margin-bottom: -10px;
+        width: 100%;
+}
+.footer-f{
+    display: flex;
+    flex-direction: row;
+}
+
+.homepage {
+    margin-left: 600px;
+    margin-top: 80px;
+}
+
+.clicks {
+    display: flex;
+    gap: 400px;
+    margin-left: 50px;
+}
+
+.explore {
+    display: flex;
+    gap: 20px;
+}
+.love {
+    margin-top: -390px;
+    width: 90%;
+}
+.pass {
+    display: flex;
+}
+.twenty-two, .experiance{
+    width: 30%;
+}
+
+.stands {
+
+    margin-top: 110px;
+    width: 110%;
+    height: 60%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
